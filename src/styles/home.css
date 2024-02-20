@@ -292,7 +292,7 @@
 }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 450px) {
   .home-box nav ul {
     display: none;
   }
